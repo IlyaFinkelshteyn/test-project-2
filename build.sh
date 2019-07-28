@@ -1,1 +1,1 @@
-echo running build.sh
+echo "running build.sh"
