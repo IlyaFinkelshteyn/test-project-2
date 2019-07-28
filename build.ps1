@@ -1,1 +1,1 @@
-echo running build.ps1
+echo "running build.ps1"
